@@ -91,23 +91,26 @@
 
 ## 📈 GitHub Analytics & Streak
 <p align="center">
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=bttu2002&color=ff0055&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="bttu2002 Trophies" />
-  </a>
+  <!-- Github Profile Trophies (Using a working, maintained mirror) -->
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
+  <!-- GitHub General Stats Card (Using working extended API mirror) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
+  <!-- Top Languages Card (Using working extended API mirror) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bttu2002&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (Switched from dead herokuapp to the updated official demolab domain) -->
+  <img src="https://streak-stats.demolab.com/?user=bttu2002&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

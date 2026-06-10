@@ -59,7 +59,7 @@
 
 ## 🛠 My Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,git,github,figma,postman,vscode,vercel&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,supabase,railway,n8n,git,github,figma,postman,vscode,vercel&perline=11" />
 </p>
 
 <p align="center">
@@ -69,8 +69,6 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Paradigm-23589B?style=flat-square&logo=visual-paradigm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-black?style=flat-square&logo=arc&logoColor=0078D4" />
 </p>
 
 ---
@@ -83,33 +81,24 @@
 ---
 
 ## 📁 Featured Projects
-- 📌 **[MicroDo](https://micro-do-frontend.vercel.app)**: Task Management System - Hệ thống quản lý tác vụ đơn giản hằng ngày.
-- 📌 **[NewsFlow](https://news-flow-tau.vercel.app)**: Real-time News Platform - Nền tảng tin tức thời gian thực sử dụng Axios và NewsAPI.
-- 📌 **[TradersYa](https://traders-ya.vercel.app)**: Real-time Cryptocurrency Tracker - Trình theo dõi tiền điện tử với dữ liệu thời gian thực.
+- 📌 **[MicroDo](https://micro-do-frontend.vercel.app)**: Task Management System - A lightweight application for daily tasks and goal tracking.
+- 📌 **[NewsFlow](https://news-flow-tau.vercel.app)**: Real-time News Platform - A dynamic news aggregate system leveraging Axios and NewsAPI.
+- 📌 **[TradersYa](https://traders-ya.vercel.app)**: Real-time Cryptocurrency Tracker - A high-performance crypto market monitoring dashboard featuring real-time data integration.
 
 ---
 
 ## 📈 GitHub Analytics & Streak
 <p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=bttu2002&color=ff0055&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Github Profile Trophies (Using a working, maintained mirror) -->
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
-  <!-- GitHub General Stats Card (Using working extended API mirror) -->
   <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
   
-  <!-- Top Languages Card (Using working extended API mirror) -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats (Switched from dead herokuapp to the updated official demolab domain) -->
   <img src="https://streak-stats.demolab.com/?user=bttu2002&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 

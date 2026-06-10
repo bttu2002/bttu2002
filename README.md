@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Websocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
@@ -59,10 +60,11 @@
 
 ## 🛠 My Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,supabase,railway,n8n,git,github,figma,postman,vscode,vercel&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,supabase,railway,render,git,github,figma,postman,vscode,vercel&perline=11" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/n8n_workflow-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />

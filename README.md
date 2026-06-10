@@ -60,13 +60,14 @@
 
 ## 🛠 My Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,supabase,railway,render,git,github,figma,postman,vscode,vercel&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,supabase,git,github,figma,postman,vscode,vercel&perline=11" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n_workflow-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0079BF?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />

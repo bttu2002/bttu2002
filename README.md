@@ -78,7 +78,7 @@
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bttu2002&theme=react-dark" width="100%" />
+  <img src="https://metrics.lecoq.io/bttu2002?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Asia%2FHo_Chi_Minh" width="100%" alt="Activity Metrics" />
 </p>
 
 ---

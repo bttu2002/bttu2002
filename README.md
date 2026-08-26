@@ -78,7 +78,7 @@
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bttu2002&theme=react-dark" width="100%" />
+  <img src="https://svg-readme.vercel.app/api/content?type=chart&user=bttu2002&theme=react-dark" width="100%" />
 </p>
 
 ---
@@ -92,16 +92,20 @@
 
 ## 📈 GitHub Analytics & Streak
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
+  <!-- GitHub General Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
   
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=bttu2002&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 

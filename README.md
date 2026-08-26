@@ -78,7 +78,7 @@
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://svg-readme.vercel.app/api/content?type=chart&user=bttu2002&theme=react-dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=bttu2002&theme=radical" width="100%" />
 </p>
 
 ---

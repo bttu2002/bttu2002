@@ -92,13 +92,13 @@
 
 ## 📈 GitHub Analytics & Streak
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
 </p>
 
 <p align="center">

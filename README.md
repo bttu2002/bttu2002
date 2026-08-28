@@ -14,7 +14,7 @@
 - 🎓 **Education:** Information Technology - Software Engineering | FPT University (2021 - 2025).
 - 🚀 **Role:** Fullstack Developer with a strong focus on **Frontend Development**.
 - 💡 **Goal:** Strengthening frontend expertise and becoming a professional Fullstack Developer.
-- 🌱 **Learning:** Currently expanding knowledge in **Prompt Engineering** and **DevOps**.
+- 🌱 **Learning:** Currently expanding knowledge in **AI workflows & Automation tools**.
 
 ---
 
@@ -95,7 +95,7 @@
   <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
@@ -103,7 +103,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bttu2002&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 

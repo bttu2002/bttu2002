@@ -84,7 +84,7 @@
 ---
 
 ## 📁 Featured Projects
-- 📌 **[MicroDo](https://micro-do-frontend.vercel.app)**: Task Management System - A lightweight application for daily tasks and goal tracking.
+- 📌 **[MicroDo](https://micro-do-fe.vercel.app/dashboard)**: Task Management System - A lightweight application for daily tasks and goal tracking.
 - 📌 **[NewsFlow](https://news-flow-tau.vercel.app)**: Real-time News Platform - A dynamic news aggregate system leveraging Axios and NewsAPI.
 - 📌 **[TradersYa](https://traders-ya.vercel.app)**: Real-time Cryptocurrency Tracker - A high-performance crypto market monitoring dashboard featuring real-time data integration.
 

@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 - 🎓 **Education:** Information Technology – Software Engineering, **FPT University** (2021 – 2025)
-- 📍 **Location:** Thu Duc, Ho Chi Minh City
+- 📍 **Location:** Ho Chi Minh City
 - 💼 **Current focus:** Fullstack Developer with strong frontend skills (React, TypeScript) and working backend knowledge (Node.js, REST APIs)
 - 🎯 **Career goal:** Frontend-focused Fullstack Developer, transitioning toward **System Operations** — using my dev background to optimize infrastructure and automate systems
 - 🌱 **Currently exploring:** n8n workflow automation & integrating AI capabilities into product features
@@ -35,7 +35,7 @@
 ## 💼 Work Experience
 
 **Fullstack Developer | System Operator** — *The Scaling Engine (Remote)*
-`03/2026 – Present`
+`04/2026 – Present`
 - Developed and maintained internal tools for the team as well as customer-facing applications
 - Managed and optimized SaaS platforms, ensuring stability and reliability of automated workflows
 

@@ -41,7 +41,7 @@
 <td width="100%">
 
 **🧭 Fullstack Developer | System Operator** — *The Scaling Engine (Remote)*
-`03/2026 – Present`
+`04/2026 – Present`
 - Developed and maintained internal tools and customer-facing applications
 - Managed and optimized SaaS platforms, ensuring stability of automated workflows
 
@@ -175,8 +175,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&hide_border=true&bg_color=00000000&title_color=FBBF24&icon_color=FBBF24&text_color=E4E4E7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&hide_border=true&bg_color=00000000&title_color=FBBF24&text_color=E4E4E7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=onedark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=onedark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/71717a/bttu2002" alt="Activity Heatmap" width="100%" />
+  <img src="https://ghchart.rshah.org/d97706/bttu2002" alt="Activity Heatmap" width="100%" />
 </p>
 
 <p align="center">

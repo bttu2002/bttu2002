@@ -175,7 +175,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2196f3/bttu2002" alt="Activity Heatmap" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bttu2002&theme=react-dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="190px" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="190px" alt="Top Languages" />
 </p>
 
 <p align="center">

@@ -183,7 +183,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="190px" alt="Top Languages" />
 </p>
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=onedark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=onedark&hide_border=true" /> </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/d97706/bttu2002" alt="Activity Heatmap" width="100%" />

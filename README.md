@@ -175,7 +175,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/bttu2002?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Asia%2FHo_Chi_Minh" width="100%" alt="Activity Metrics" />
+  <img src="https://ghchart.rshah.org/2196f3/bttu2002" alt="Activity Heatmap" width="100%" />
 </p>
 
 <p align="center">

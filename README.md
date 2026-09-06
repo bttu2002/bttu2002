@@ -175,8 +175,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=onedark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=onedark&hide_border=true" />
+  <img src="https://metrics.lecoq.io/bttu2002?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Asia%2FHo_Chi_Minh" width="100%" alt="Activity Metrics" />
 </p>
 
 <p align="center">

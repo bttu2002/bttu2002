@@ -14,8 +14,8 @@
 
 <p>
   <a href="mailto:bttu2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-27272A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/bttu2002"><img src="https://img.shields.io/badge/LinkedIn-27272A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="tel:0935648545"><img src="https://img.shields.io/badge/Phone-0935648545-27272A?style=for-the-badge&logo=phone&logoColor=25D366" /></a>
+  <a href="https://www.linkedin.com/in/bttu2002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:0935648545"><img src="https://img.shields.io/badge/Phone-0935648545-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
   <a href="https://github.com/bttu2002"><img src="https://img.shields.io/badge/GitHub-27272A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -140,7 +140,11 @@
 <img src="https://img.shields.io/badge/HTML5-27272A?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Zustand-27272A?style=for-the-badge&logo=react&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/Redux-27272A?style=for-the-badge&logo=redux&logoColor=764ABC" />
 <img src="https://img.shields.io/badge/Shadcn/UI-27272A?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-27272A?style=for-the-badge&logo=mui&logoColor=007FFF" />
+<img src="https://img.shields.io/badge/Bootstrap-27272A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/Axios-27272A?style=for-the-badge&logo=axios&logoColor=5A29E4" />
 </p>
 
 **Backend**
@@ -148,6 +152,8 @@
 <img src="https://img.shields.io/badge/Node.js-27272A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express.js-27272A?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-27272A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Bcrypt-27272A?style=for-the-badge&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/WebSocket-27272A?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-27272A?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -156,6 +162,8 @@
 <img src="https://img.shields.io/badge/Supabase-27272A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 <img src="https://img.shields.io/badge/PostgreSQL-27272A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/SQL-27272A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/SQL_Server-27272A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 </p>
 
 **Tools & Workflow**
@@ -170,19 +178,28 @@
 <img src="https://img.shields.io/badge/Vercel-27272A?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+**Project Management & Deployment**
+<p>
+<img src="https://img.shields.io/badge/Trello-27272A?style=for-the-badge&logo=trello&logoColor=0079BF" />
+<img src="https://img.shields.io/badge/Jira-27272A?style=for-the-badge&logo=jira&logoColor=0052CC" />
+<img src="https://img.shields.io/badge/Railway-27272A?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-27272A?style=for-the-badge&logo=render&logoColor=46E3B7" />
+<img src="https://img.shields.io/badge/Draw.io-27272A?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" />
+<img src="https://img.shields.io/badge/Visual_Paradigm-27272A?style=for-the-badge&logoColor=23589B" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,50:3f3f46,100:71717a&height=4" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=00000000&ring=FBBF24&fire=FBBF24&currStreakLabel=E4E4E7&sideLabels=E4E4E7&sideNums=E4E4E7&currStreakNum=E4E4E7&dates=71717A" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=onedark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=onedark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="190px" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="190px" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=00000000&ring=FBBF24&fire=FBBF24&currStreakLabel=E4E4E7&sideLabels=E4E4E7&sideNums=E4E4E7&currStreakNum=E4E4E7&dates=71717A" />
 </p>
-
 
 <p align="center">
   <img src="https://ghchart.rshah.org/d97706/bttu2002" alt="Activity Heatmap" width="100%" />

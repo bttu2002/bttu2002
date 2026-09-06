@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=200&section=header&text=BUI%20THANH%20TU&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Frontend-focused%20Fullstack%20Developer&descAlignY=62&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=200&section=header&text=BUI%20THANH%20TU&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Frontend-focused|%20Fullstack%20Developer&descAlignY=62&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+clean%2C+responsive+web+apps;React+%2B+TypeScript+%2B+Node.js;Open+to+Junior+%2F+Fresher+opportunities" />
 
@@ -20,7 +20,7 @@
 ## 👋 About Me
 
 - 🎓 **Education:** Information Technology – Software Engineering, **FPT University** (2021 – 2025)
-- 📍 **Location:** Thu Duc, Ho Chi Minh City
+- 📍 **Location:** Ho Chi Minh City
 - 💼 **Current focus:** Fullstack Developer — strong on frontend (React, TypeScript), working knowledge of backend (Node.js, REST APIs)
 - 🎯 **Career goal:** Frontend-focused Fullstack Developer transitioning toward **System Operations** — using dev experience to automate and optimize infrastructure
 - 🌱 **Currently exploring:** n8n workflow automation & AI-assisted features
@@ -35,7 +35,7 @@
 <td width="100%">
 
 **Fullstack Developer | System Operator** — *The Scaling Engine (Remote)*
-`03/2026 – Present`
+`04/2026 – Present`
 - Developed and maintained internal tools and customer-facing applications
 - Managed and optimized SaaS platforms, ensuring stability of automated workflows
 

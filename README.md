@@ -1,113 +1,117 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HELLO%2C%20BTTU2002-black?style=for-the-badge&logo=github&logoColor=white" />
 
-  # 🌀 Welcome to my universe!
-  
-  ### Full-Stack Developer | Technology & Art enthusiast | Open to Collaboration
+  # 🌀 Bui Thanh Tu — Fullstack Developer
+
+  ### Frontend-focused Fullstack Developer | Open to Junior/Fresher opportunities
 
   ![](https://komarev.com/ghpvc/?username=bttu2002&color=ff00ff&style=flat-square&label=Profile+views)
+
+  <p>
+    <a href="mailto:bttu2002@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/bttu2002">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="tel:0935648545">
+      <img src="https://img.shields.io/badge/Phone-0935648545-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </p>
 
   ---
 </div>
 
 ## 👋 About Me
-- 🎓 **Education:** Information Technology - Software Engineering | FPT University (2021 - 2025).
-- 🚀 **Role:** Fullstack Developer with a strong focus on **Frontend Development**.
-- 💡 **Goal:** Strengthening frontend expertise and becoming a professional Fullstack Developer.
-- 🌱 **Learning:** Currently expanding knowledge in **AI workflows & Automation tools**.
+- 🎓 **Education:** Information Technology – Software Engineering, **FPT University** (2021 – 2025)
+- 📍 **Location:** Thu Duc, Ho Chi Minh City
+- 💼 **Current focus:** Fullstack Developer with strong frontend skills (React, TypeScript) and working backend knowledge (Node.js, REST APIs)
+- 🎯 **Career goal:** Frontend-focused Fullstack Developer, transitioning toward **System Operations** — using my dev background to optimize infrastructure and automate systems
+- 🌱 **Currently exploring:** n8n workflow automation & integrating AI capabilities into product features
+- 🗣️ **Languages:** English, Vietnamese
 
 ---
 
-## 🤝 Connect with Me
-<p align="center">
-  <a href="mailto:bttu2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bttu2002">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 💼 Work Experience
+
+**Fullstack Developer | System Operator** — *The Scaling Engine (Remote)*
+`03/2026 – Present`
+- Developed and maintained internal tools for the team as well as customer-facing applications
+- Managed and optimized SaaS platforms, ensuring stability and reliability of automated workflows
+
+**Software Engineering Intern** — *FPT Software (Fulltime)*
+`05/2024 – 08/2024`
+- Labeled and prepared datasets for AI model training using LabelMe
+- Worked within a professional software development environment and team project workflows
+- Gained hands-on experience with the software development lifecycle and teamwork
+
+---
+
+## 📁 Projects
+
+### 🔹 [Task Management SaaS System (MicroDo)](https://micro-do-fe.vercel.app/dashboard)
+**Stack:** ReactJS, Vite, TypeScript, Tailwind CSS, Zustand, ShadcnUI · Node.js, Express, JWT, Bcrypt, n8n · Supabase
+- Developed a RESTful API and a responsive UI with Dark/Light mode
+- Implemented n8n workflow automation connecting the system to Slack for team notifications
+- Integrated AI capabilities to auto-generate and suggest sub-tasks, improving project management efficiency
+
+### 🔹 [Real-time News Platform (NewsFlow)](https://news-flow-tau.vercel.app) — [Repo](https://github.com/bttu2002/NewsFlow)
+**Stack:** ReactJS, Vite, TypeScript, Axios, NewsAPI
+- Built an intermediate backend to prevent CORS errors during deployment
+- Built a responsive UI for desktop and mobile
+- Integrated NewsAPI with Axios; implemented search and dark/light mode
+
+### 🔹 [Real-time Cryptocurrency Tracker (TradersYa)](https://traders-ya.vercel.app) — [Repo](https://github.com/bttu2002/TradersYa)
+**Stack:** ReactJS, Vite, TypeScript, Tailwind CSS, CoinLore API
+- Built an intermediate backend to prevent CORS errors during deployment
+- Integrated CoinLore API to display live trending coin data
+- Implemented search functionality and dark/light mode
+
+### 🔹 [CEO-Dashboard — Restaurant Management System](https://demo.wayer.co)
+**Stack:** ReactJS, Vite, TypeScript, Tailwind CSS, ShadcnUI · Node.js, Express, JWT, Bcrypt · Supabase
+- Developed a RESTful API and a fully responsive UI for all devices
+- Handled frontend–backend integration end-to-end
+
+### 🔹 Capstone Project — [Broadcom Expat Employee Social Recommendation System](https://beesrs.io.vn) — [Repo](https://github.com/bttu2002/CapstoneProject_FA25_FE)
+**Stack:** ReactJS, TypeScript, REST API, TrackMaps API
+- Built an interactive UI for location discovery and social interaction
+- Handled API requests, loading states, and error handling for better UX
+- Integrated map features using the TrackMaps API
+- Developed chat interface and event management components
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** ReactJS, TypeScript, JavaScript, Vite, Tailwind CSS, Zustand, Shadcn UI, HTML5, CSS3
+**Backend:** Node.js, Express.js, JWT, Bcrypt, REST API integration
+**Database:** Supabase, SQL (basic)
+**Tools & Workflow:** Git, GitHub, Figma, Postman, VS Code, n8n
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dmF6N3R4bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,supabase,git,github,figma,postman,vscode,vercel&perline=10" />
 </p>
 
 ---
 
-## 🚀 Tech Universe
-<p align="center">
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Websocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/Bcrypt-grey?style=for-the-badge" />
-</p>
-
----
-
-## 🛠 My Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,redux,vite,supabase,git,github,figma,postman,vscode,vercel&perline=11" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n_workflow-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0079BF?style=flat-square&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Paradigm-23589B?style=flat-square&logo=visual-paradigm&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 <p align="center">
   <img src="https://ghchart.rshah.org/2196f3/bttu2002" alt="Activity Heatmap" width="100%" />
 </p>
 
----
-
-## 📁 Featured Projects
-- 📌 **[MicroDo](https://micro-do-fe.vercel.app/dashboard)**: Task Management System - A lightweight application for daily tasks and goal tracking.
-- 📌 **[NewsFlow](https://news-flow-tau.vercel.app)**: Real-time News Platform - A dynamic news aggregate system leveraging Axios and NewsAPI.
-- 📌 **[TradersYa](https://traders-ya.vercel.app)**: Real-time Cryptocurrency Tracker - A high-performance crypto market monitoring dashboard featuring real-time data integration.
-
----
-
-## 📈 GitHub Analytics & Streak
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=radical&margin-w=15" alt="Trophies" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="200px" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="200px" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bttu2002&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p> -->
-
 ---
 
-## 🐍 Fun Fact: Commit Snake
+## 🐍 Commit Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/bttu2002/bttu2002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+<div align="center">
+  💬 Open to Fresher / Junior Frontend & Fullstack opportunities — feel free to reach out!
+</div>

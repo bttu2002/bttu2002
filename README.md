@@ -192,7 +192,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=00000000&ring=FBBF24&fire=FBBF24&currStreakLabel=E4E4E7&sideLabels=E4E4E7&sideNums=E4E4E7&currStreakNum=E4E4E7&dates=71717A" /> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="190px" alt="GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="190px" alt="Top Languages" /> </p> <p align="center"> <img src="https://ghchart.rshah.org/d97706/bttu2002" alt="Activity Heatmap" width="100%" /> </p> <p align="center"> <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=onedark&margin-w=15&no-frame=true" alt="Trophies" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=00000000&ring=FBBF24&fire=FBBF24&currStreakLabel=E4E4E7&sideLabels=E4E4E7&sideNums=E4E4E7&currStreakNum=E4E4E7&dates=71717A" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true" height="190px" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&theme=radical&hide_border=true" height="190px" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/d97706/bttu2002" alt="Activity Heatmap" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=onedark&margin-w=15&no-frame=true" alt="Trophies" />
+</p>
 
 ## 🐍 Commit Snake
 <p align="center">

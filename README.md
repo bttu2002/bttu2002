@@ -28,7 +28,7 @@
 - 🎓 **Education:** Information Technology – Software Engineering, **FPT University** (2021 – 2025)
 - 📍 **Location:** Ho Chi Minh City
 - 💼 **Current focus:** Fullstack Developer — strong on frontend (React, TypeScript), working knowledge of backend (Node.js, REST APIs)
-- 🎯 **Career goal:** Frontend-focused Fullstack Developer transitioning toward **System Operations** — using dev experience to automate and optimize infrastructure
+- 🎯 **Career goal:** Frontend-focused | Fullstack Developer transitioning toward **System Operations** — using dev experience to automate and optimize infrastructure
 - 🌱 **Currently exploring:** n8n workflow automation & AI-assisted features
 - 🗣️ **Languages:** English · Vietnamese
 

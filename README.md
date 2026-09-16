@@ -72,14 +72,20 @@
 <img src="https://img.shields.io/badge/Zustand-27272A?style=flat-square&logo=react&logoColor=FF6F00" />
 <img src="https://img.shields.io/badge/Node.js-27272A?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express-27272A?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Integration-27272A?style=flat-square&logo=openai&logoColor=10A37F" />
 <img src="https://img.shields.io/badge/n8n-27272A?style=flat-square&logo=n8n&logoColor=EA4B71" />
 <img src="https://img.shields.io/badge/Slack_API-27272A?style=flat-square&logo=slack&logoColor=4A154B" />
 <img src="https://img.shields.io/badge/Supabase-27272A?style=flat-square&logo=supabase&logoColor=3ECF8E" />
 </p>
 
-- Developed a RESTful API and responsive UI with Dark/Light mode
-- Implemented n8n workflow automation connecting the system to Slack
-- Integrated AI to auto-generate and suggest sub-tasks, improving PM efficiency
+**The problem:** After every meeting, managers re-type the same decisions into a task board by hand — who owns what, by when. Breaking a vague task into actionable steps is equally manual, and once work is distributed there is no clear view of who is actually progressing.
+
+**What I built to solve it:**
+- **Meeting transcript → tasks pipeline:** managers paste a raw transcript and AI extracts structured tasks with assignees and deadlines, rendered in an editable preview so a human approves before anything is written — then bulk-creates the approved set. Turns post-meeting data entry into a review step instead of a typing session.
+- **AI task decomposition:** complex tasks are automatically broken into sub-tasks at creation time, so work starts from actionable steps rather than a vague one-liner.
+- **Multi-project team management:** managers add members to projects, track individual progress, and read productivity analytics — replacing "who's working on what?" check-ins with a live view.
+- **Automated notifications via n8n:** workflow automation pushes task events to Slack, so updates reach the team where they already work instead of requiring them to check the board.
+- Built the RESTful API and a responsive UI with Dark/Light mode end-to-end.
 
 ### 🔹 [Real-time News Platform (NewsFlow)](https://news-flow-tau.vercel.app) · [Repo](https://github.com/bttu2002/NewsFlow)
 <p>

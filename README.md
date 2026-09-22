@@ -57,7 +57,7 @@ Information Technology<br/>Software Engineering<br/>
 <b>Fullstack Developer</b> — strong on frontend (React, TypeScript), working knowledge of backend (Node.js, REST APIs)
 </td>
 <td valign="top" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="44" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="44" alt="🎯" /><br/>
 <img src="https://img.shields.io/badge/CAREER_GOAL-A855F7?style=flat-square" /><br/><br/>
 Frontend-focused | Fullstack Developer transitioning toward <b>System Operations</b> — using dev experience to automate and optimize infrastructure
 </td>

@@ -1,297 +1,326 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,50:3f3f46,100:71717a&height=220&section=header&text=Bui%20Thanh%20Tu&fontSize=54&fontColor=FBBF24&animation=twinkling&fontAlignY=36&desc=I%20turn%20repetitive%20manual%20work%20into%20automated%2C%20reviewable%20workflows&descAlignY=58&descSize=17&descColor=E4E4E7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,35:FF006E,70:FB5607,100:FFBE0B&height=230&section=header&text=BUI%20THANH%20TU&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Frontend-focused%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=19&descColor=FFFFFF" />
 
-<a href="https://github.com/bttu2002">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=680&lines=Frontend-focused+Fullstack+Developer;React+%2B+TypeScript+%2B+Node.js;Automating+the+boring+parts+with+n8n+%2B+AI;Heading+toward+System+Operations;Open+to+Junior+%2F+Fresher+roles" alt="Typing intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=650&lines=Building+clean%2C+responsive+web+apps;React+%2B+TypeScript+%2B+Node.js;Open+to+Junior+%2F+Fresher+opportunities" />
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Frontend_Developer-8338EC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Enthusiast-3A86FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation_Curious-06D6A0?style=for-the-badge&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Status-Open_to_work-FBBF24?style=flat-square&labelColor=27272A" />
-<img src="https://img.shields.io/badge/Based_in-Ho_Chi_Minh_City-E4E4E7?style=flat-square&labelColor=27272A" />
-<img src="https://img.shields.io/badge/Speaks-English_%7C_Vietnamese-E4E4E7?style=flat-square&labelColor=27272A" />
-<img src="https://komarev.com/ghpvc/?username=bttu2002&color=71717a&style=flat-square&label=Profile+views" />
+<img src="https://komarev.com/ghpvc/?username=bttu2002&color=FF006E&style=flat-square&label=Profile+views" />
 
-<br/><br/>
-
-<a href="mailto:bttu2002@gmail.com"><img src="https://img.shields.io/badge/Email_me-27272A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.linkedin.com/in/bttu2002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="tel:0935648545"><img src="https://img.shields.io/badge/0935_648_545-27272A?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
-<a href="https://micro-do-fe.vercel.app/dashboard"><img src="https://img.shields.io/badge/Try_MicroDo_live-FBBF24?style=for-the-badge&logo=vercel&logoColor=18181B" /></a>
+<p>
+  <a href="mailto:bttu2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bttu2002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:0935648545"><img src="https://img.shields.io/badge/0935648545-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="https://github.com/bttu2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
-<br/>
-
-## 👋 About me
-
-```ts
-const tu = {
-  role:        "Fullstack Developer & System Operator @ The Scaling Engine",
-  strongest:   ["React", "TypeScript", "Tailwind", "Zustand"],
-  comfortable: ["Node.js", "Express", "REST APIs", "Supabase / PostgreSQL"],
-  exploring:   ["n8n workflow automation", "AI-assisted features"],
-  education:   "Software Engineering, FPT University (2021 – 2025)",
-  direction:   "Using dev experience to automate and optimize infrastructure",
-  lookingFor:  "Junior / Fresher Frontend or Fullstack role",
-};
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,100:FB5607&height=64&text=About%20Me&fontSize=30&fontColor=FFFFFF&fontAlignY=55" />
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-**🧑‍⚖️ Human in the loop**
-
-AI drafts, people approve. My tools put a review step before anything gets written, so automation saves time without losing control.
-
+<img src="https://img.shields.io/badge/🎓_Education-8338EC?style=flat-square" /><br/><br/>
+Information Technology, Software Engineering<br/>
+<b>FPT University</b> (2021 – 2025)
 </td>
 <td width="33%" valign="top">
-
-**⚙️ Automate the boring part**
-
-If a manager types the same thing twice a week, it should be a workflow. I reach for n8n, webhooks and Slack before adding another screen.
-
+<img src="https://img.shields.io/badge/📍_Location-FF006E?style=flat-square" /><br/><br/>
+<b>Ho Chi Minh City</b>
 </td>
 <td width="33%" valign="top">
+<img src="https://img.shields.io/badge/🗣️_Languages-FB5607?style=flat-square" /><br/><br/>
+<b>English</b> and <b>Vietnamese</b>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="https://img.shields.io/badge/💼_Current_focus-3A86FF?style=flat-square" /><br/><br/>
+<b>Fullstack Developer</b>, strong on frontend (React, TypeScript), working knowledge of backend (Node.js, REST APIs)
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/🎯_Career_goal-06D6A0?style=flat-square" /><br/><br/>
+Frontend-focused Fullstack Developer transitioning toward <b>System Operations</b>, using dev experience to automate and optimize infrastructure
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/🌱_Currently_exploring-FFBE0B?style=flat-square" /><br/><br/>
+<b>n8n</b> workflow automation and <b>AI-assisted</b> features
+</td>
+</tr>
+</table>
 
-**📦 Ship end to end**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFBE0B,100:FB5607&height=64&text=Work%20Experience&fontSize=30&fontColor=FFFFFF&fontAlignY=55" />
 
-API, UI, integration, deployment. I'm most comfortable owning a feature from the first endpoint to the dark mode toggle.
+<table>
+<tr>
+<td width="150" align="center" valign="top">
+<img src="https://img.shields.io/badge/04%2F2026_–_Present-FF006E?style=for-the-badge" />
+</td>
+<td valign="top">
+
+### 🧭 Fullstack Developer | System Operator
+<img src="https://img.shields.io/badge/The_Scaling_Engine-8338EC?style=flat-square" /> <img src="https://img.shields.io/badge/Remote-3A86FF?style=flat-square" />
+
+🟣 Developed and maintained internal tools and customer-facing applications<br/>
+🔵 Managed and optimized SaaS platforms, ensuring stability of automated workflows
+
+</td>
+</tr>
+<tr>
+<td width="150" align="center" valign="top">
+<img src="https://img.shields.io/badge/05%2F2024_–_08%2F2024-FB5607?style=for-the-badge" />
+</td>
+<td valign="top">
+
+### 🧭 Software Engineering Intern
+<img src="https://img.shields.io/badge/FPT_Software-F37021?style=flat-square" /> <img src="https://img.shields.io/badge/Fulltime-06D6A0?style=flat-square" />
+
+🟠 Labeled and prepared datasets for AI model training using LabelMe<br/>
+🟡 Worked within a professional dev environment and team project workflows<br/>
+🟢 Gained hands-on experience with the full software development lifecycle
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,50:3f3f46,100:71717a&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06D6A0,100:3A86FF&height=64&text=Projects&fontSize=30&fontColor=FFFFFF&fontAlignY=55" />
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="120" align="center" valign="top">
-<img src="https://img.shields.io/badge/04%2F2026-Now-FBBF24?style=flat-square&labelColor=27272A" />
-</td>
-<td valign="top">
-
-**Fullstack Developer & System Operator** at **The Scaling Engine** · Remote
-
-Developing and maintaining internal tools and customer-facing applications, and keeping the SaaS platforms and automated workflows behind them stable and optimized.
-
-</td>
-</tr>
-<tr>
-<td width="120" align="center" valign="top">
-<img src="https://img.shields.io/badge/05%2F2024-08%2F2024-71717A?style=flat-square&labelColor=27272A" />
-</td>
-<td valign="top">
-
-**Software Engineering Intern** at **FPT Software** · Full-time
-
-Labeled and prepared AI training datasets with LabelMe, worked inside a professional team workflow and saw the full software development lifecycle up close.
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,50:3f3f46,100:71717a&height=3" />
-
-## ⭐ Featured project: MicroDo
+## ⭐ Task Management SaaS System (MicroDo)
 
 <p>
-<a href="https://micro-do-fe.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_demo-FBBF24?style=for-the-badge&logo=vercel&logoColor=18181B" /></a>
+<a href="https://micro-do-fe.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-FF006E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-> **The problem.** After every meeting, managers re-type the same decisions into a task board by hand. Breaking a vague task into real steps is just as manual, and once work is handed out nobody has a clear view of who is actually moving.
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-FF6F00?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Integration-10A37F?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
 
-**How MicroDo turns a meeting into a working task board:**
+> 🔴 **The problem:** After every meeting, managers re-type the same decisions into a task board by hand — who owns what, by when. Breaking a vague task into actionable steps is equally manual, and once work is distributed there is no clear view of who is actually progressing.
 
 ```mermaid
 flowchart LR
-    A["📝 Raw meeting transcript"] --> B["🤖 AI extracts tasks,<br/>owners, deadlines"]
+    A["📝 Meeting transcript"] --> B["🤖 AI extracts tasks,<br/>assignees, deadlines"]
     B --> C["👀 Editable preview"]
-    C -->|"Manager approves"| D["✅ Bulk-create tasks"]
-    D --> E["🧩 AI breaks each task<br/>into sub-tasks"]
+    C -->|"Human approves"| D["✅ Bulk-create tasks"]
+    D --> E["🧩 AI sub-tasks"]
     D --> F["⚡ n8n workflow"]
-    F --> G["💬 Slack notification"]
-    D --> H["📊 Team progress<br/>analytics"]
+    F --> G["💬 Slack"]
+    D --> H["📊 Productivity analytics"]
 
-    classDef ai fill:#27272A,stroke:#FBBF24,color:#FBBF24
-    classDef human fill:#FBBF24,stroke:#FBBF24,color:#18181B
-    class B,E ai
-    class C human
+    classDef pink fill:#FF006E,stroke:#FF006E,color:#FFFFFF
+    classDef purple fill:#8338EC,stroke:#8338EC,color:#FFFFFF
+    classDef blue fill:#3A86FF,stroke:#3A86FF,color:#FFFFFF
+    classDef green fill:#06D6A0,stroke:#06D6A0,color:#000000
+    classDef yellow fill:#FFBE0B,stroke:#FFBE0B,color:#000000
+    classDef orange fill:#FB5607,stroke:#FB5607,color:#FFFFFF
+    class A pink
+    class B,E purple
+    class C yellow
+    class D green
+    class F,G orange
+    class H blue
 ```
 
-| What I built | What it replaces |
-|---|---|
-| **Transcript → tasks pipeline** with an editable approval preview | A typing session after every meeting becomes a two-minute review |
-| **AI task decomposition** at creation time | Work starts from actionable steps, not a vague one-liner |
-| **Multi-project team management** with productivity analytics | "Who's working on what?" check-ins |
-| **n8n → Slack automation** for task events | Asking the team to keep refreshing the board |
-| **REST API + responsive UI** with dark / light mode | Built end to end by me |
+**What I built to solve it:**
 
-<p>
-<img src="https://img.shields.io/badge/React-27272A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-27272A?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Tailwind-27272A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Zustand-27272A?style=flat-square&logo=react&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/Node.js-27272A?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-27272A?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-27272A?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/AI_Integration-27272A?style=flat-square&logo=openai&logoColor=10A37F" />
-<img src="https://img.shields.io/badge/n8n-27272A?style=flat-square&logo=n8n&logoColor=EA4B71" />
-<img src="https://img.shields.io/badge/Slack_API-27272A?style=flat-square&logo=slack&logoColor=E01E5A" />
-</p>
+🟣 **Meeting transcript → tasks pipeline:** managers paste a raw transcript and AI extracts structured tasks with assignees and deadlines, rendered in an editable preview so a human approves before anything is written, then bulk-creates the approved set. Turns post-meeting data entry into a review step instead of a typing session.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,50:3f3f46,100:71717a&height=3" />
+🔵 **AI task decomposition:** complex tasks are automatically broken into sub-tasks at creation time, so work starts from actionable steps rather than a vague one-liner.
 
-## 📁 More projects
+🟢 **Multi-project team management:** managers add members to projects, track individual progress, and read productivity analytics, replacing "who's working on what?" check-ins with a live view.
+
+🟠 **Automated notifications via n8n:** workflow automation pushes task events to Slack, so updates reach the team where they already work instead of requiring them to check the board.
+
+🟡 Built the **RESTful API** and a **responsive UI** with Dark/Light mode end-to-end.
+
+<br/>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🍱 CEO Dashboard
-**Restaurant management system**
-
-RESTful API plus a fully responsive UI for every device, with the frontend and backend integration handled end to end.
-
-<a href="https://demo.wayer.co"><img src="https://img.shields.io/badge/Live_demo-FBBF24?style=flat-square&logo=vercel&logoColor=18181B" /></a>
-
-<sub>React · TypeScript · Node.js · Express · Supabase</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌏 BEESRS (Capstone)
-**Social recommendation system for Broadcom expat employees**
-
-Interactive UI for discovering places and meeting people, map features through the TrackMaps API, plus chat and event management components.
-
-<a href="https://beesrs.io.vn"><img src="https://img.shields.io/badge/Live_demo-FBBF24?style=flat-square&logo=vercel&logoColor=18181B" /></a>
-<a href="https://github.com/bttu2002/CapstoneProject_FA25_FE"><img src="https://img.shields.io/badge/Repo-27272A?style=flat-square&logo=github&logoColor=white" /></a>
-
-<sub>React · TypeScript · REST API · TrackMaps API</sub>
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 📰 NewsFlow
-**Real-time news platform**
+<img src="https://img.shields.io/badge/Real--time_News_Platform-FF006E?style=flat-square" />
 
-A small intermediate backend that sidesteps CORS errors in production, and a responsive desktop and mobile UI with search and dark / light mode.
+<a href="https://news-flow-tau.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FB5607?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/bttu2002/NewsFlow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-<a href="https://news-flow-tau.vercel.app"><img src="https://img.shields.io/badge/Live_demo-FBBF24?style=flat-square&logo=vercel&logoColor=18181B" /></a>
-<a href="https://github.com/bttu2002/NewsFlow"><img src="https://img.shields.io/badge/Repo-27272A?style=flat-square&logo=github&logoColor=white" /></a>
+🔸 Built an intermediate backend to prevent CORS errors during deployment<br/>
+🔸 Responsive UI for desktop and mobile with search + dark/light mode
 
-<sub>React · TypeScript · Vite · Axios</sub>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 TradersYa
-**Real-time crypto tracker**
+<img src="https://img.shields.io/badge/Real--time_Cryptocurrency_Tracker-FFBE0B?style=flat-square" />
 
-Live trending coin data from the CoinLore API, served through an intermediate backend to avoid CORS, with search and dark / light mode.
+<a href="https://traders-ya.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FB5607?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/bttu2002/TradersYa"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-<a href="https://traders-ya.vercel.app"><img src="https://img.shields.io/badge/Live_demo-FBBF24?style=flat-square&logo=vercel&logoColor=18181B" /></a>
-<a href="https://github.com/bttu2002/TradersYa"><img src="https://img.shields.io/badge/Repo-27272A?style=flat-square&logo=github&logoColor=white" /></a>
+🔸 Built an intermediate backend to prevent CORS errors during deployment<br/>
+🔸 Live trending coin data with search and dark/light mode
 
-<sub>React · TypeScript · Tailwind · CoinLore API</sub>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/CoinLore_API-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍱 CEO-Dashboard
+<img src="https://img.shields.io/badge/Restaurant_Management_System-06D6A0?style=flat-square" />
+
+<a href="https://demo.wayer.co"><img src="https://img.shields.io/badge/Live_Demo-FB5607?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+🔸 Developed a RESTful API and a fully responsive UI for all devices<br/>
+🔸 Handled frontend–backend integration end-to-end
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Capstone Project
+<img src="https://img.shields.io/badge/Broadcom_Expat_Employee_Social_Recommendation_System-8338EC?style=flat-square" />
+
+<a href="https://beesrs.io.vn"><img src="https://img.shields.io/badge/Live_Demo-FB5607?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/bttu2002/CapstoneProject_FA25_FE"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+🔸 Built an interactive UI for location discovery and social interaction<br/>
+🔸 Integrated map features via TrackMaps API; built chat & event management components
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TrackMaps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,50:3f3f46,100:71717a&height=3" />
-
-## 🛠 Tech stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3A86FF,100:8338EC&height=64&text=Tech%20Stack&fontSize=30&fontColor=FFFFFF&fontAlignY=55" />
 
 <table>
 <tr>
-<td width="140"><b>Frontend</b></td>
+<td width="130" align="center"><img src="https://img.shields.io/badge/Frontend-FF006E?style=for-the-badge" /></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,redux,materialui,bootstrap&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Zustand-27272A?style=flat-square&logo=react&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-27272A?style=flat-square&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-27272A?style=flat-square&logo=axios&logoColor=5A29E4" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-FF6F00?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Backend-FB5607?style=for-the-badge" /></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/REST_API-27272A?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-27272A?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Bcrypt-27272A?style=flat-square&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/WebSocket-27272A?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Bcrypt-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSocket-3A86FF?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Database</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Database-06D6A0?style=for-the-badge" /></td>
 <td>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/SQL_Server-27272A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
-<img src="https://img.shields.io/badge/SQL-27272A?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Automation</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Tools-3A86FF?style=for-the-badge" /></td>
 <td>
-<img src="https://img.shields.io/badge/n8n-27272A?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-<img src="https://img.shields.io/badge/Slack_API-27272A?style=for-the-badge&logo=slack&logoColor=E01E5A" />
-<img src="https://img.shields.io/badge/AI_Integration-27272A?style=for-the-badge&logo=openai&logoColor=10A37F" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Tools & deploy</b></td>
+<td align="center"><img src="https://img.shields.io/badge/PM_%26_Deploy-8338EC?style=for-the-badge" /></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Railway-27272A?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-27272A?style=flat-square&logo=render&logoColor=46E3B7" />
-<img src="https://img.shields.io/badge/Jira-27272A?style=flat-square&logo=jira&logoColor=0052CC" />
-<img src="https://img.shields.io/badge/Trello-27272A?style=flat-square&logo=trello&logoColor=0079BF" />
-<img src="https://img.shields.io/badge/Draw.io-27272A?style=flat-square&logo=diagramsdotnet&logoColor=F08705" />
-<img src="https://img.shields.io/badge/Visual_Paradigm-27272A?style=flat-square&logoColor=23589B" />
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-7B2FF7?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Paradigm-23589B?style=for-the-badge" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,50:3f3f46,100:71717a&height=3" />
-
-## 📊 On GitHub
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8338EC,100:FF006E&height=64&text=GitHub%20Stats&fontSize=30&fontColor=FFFFFF&fontAlignY=55" />
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&theme=radical&hide_border=true&bg_color=18181B&title_color=FBBF24&icon_color=FBBF24&text_color=E4E4E7" height="170" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&hide_border=true&bg_color=18181B&title_color=FBBF24&text_color=E4E4E7" height="170" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bttu2002&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=FF006E&icon_color=FFBE0B&text_color=E4E4E7&ring_color=8338EC" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bttu2002&layout=compact&hide_border=true&bg_color=1A1B27&title_color=06D6A0&text_color=E4E4E7" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=18181B&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=E4E4E7&sideNums=E4E4E7&currStreakNum=E4E4E7&dates=71717A" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=1A1B27&ring=8338EC&fire=FF006E&currStreakLabel=FFBE0B&sideLabels=06D6A0&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=3A86FF&stroke=3A86FF" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/d97706/bttu2002" alt="Contribution heatmap" width="95%" />
+  <img src="https://ghchart.rshah.org/8338EC/bttu2002" alt="Activity Heatmap" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=onedark&margin-w=12&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=radical&margin-w=15&no-frame=true" alt="Trophies" />
 </p>
 
+<h3 align="center">🐍 Commit Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bttu2002/bttu2002/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/bttu2002/bttu2002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,50:3f3f46,100:71717a&height=150&section=footer&text=Let's%20build%20something%20useful&fontSize=26&fontColor=FBBF24&fontAlignY=70&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBE0B,35:FB5607,70:FF006E,100:8338EC&height=140&section=footer&animation=twinkling" />
 
 <div align="center">
 
-**Hiring a Junior / Fresher Frontend or Fullstack developer?** I'd love to hear about it.
-
-<a href="mailto:bttu2002@gmail.com"><img src="https://img.shields.io/badge/Say_hello-FBBF24?style=for-the-badge&logo=gmail&logoColor=18181B" /></a>
-<a href="https://www.linkedin.com/in/bttu2002"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+💬 **Open to Fresher / Junior Frontend & Fullstack opportunities, feel free to reach out!**
 
 </div>

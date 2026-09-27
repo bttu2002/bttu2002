@@ -338,9 +338,9 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
   <img src="https://streak-stats.demolab.com?user=bttu2002&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=22D3EE&sideLabels=A855F7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D" alt="Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bttu2002&bg_color=0D1117&color=22D3EE&line=A855F7&point=EC4899&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://ghchart.rshah.org/A855F7/bttu2002" alt="Activity Heatmap" width="100%" />

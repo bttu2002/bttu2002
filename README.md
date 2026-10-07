@@ -1,4 +1,5 @@
 <!-- ============================== HERO ============================== -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:7C3AED,75:EC4899,100:22D3EE&height=240&section=header&text=BUI%20THANH%20TU&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Frontend-focused%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=19&descColor=E0F2FE&stroke=22D3EE&strokeWidth=1" />
@@ -22,6 +23,12 @@
   <a href="https://github.com/bttu2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p>
+  <a href="https://drive.google.com/file/d/1qJnFH8_ApAqpuqilnjGEhtjGDIg2YaFb/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄-View%20%2F%20Download%20CV-22D3EE?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=bttu2002&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
@@ -29,6 +36,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== ABOUT ============================== -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=22D3EE&vCenter=true&width=520&height=48&repeat=false&lines=%24+whoami" alt="whoami" />
 
 <table>
@@ -39,28 +47,33 @@
 Information Technology<br/>Software Engineering<br/>
 <b>FPT University</b><br/><sub>2021 – 2025</sub>
 </td>
+
 <td width="33%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" width="44" /><br/>
 <img src="https://img.shields.io/badge/LOCATION-EC4899?style=flat-square" /><br/><br/>
 <b>Ho Chi Minh City</b>
 </td>
+
 <td width="33%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="44" /><br/>
 <img src="https://img.shields.io/badge/LANGUAGES-22D3EE?style=flat-square" /><br/><br/>
 <b>English</b> · <b>Vietnamese</b>
 </td>
 </tr>
+
 <tr>
 <td valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="44" /><br/>
 <img src="https://img.shields.io/badge/CURRENT_FOCUS-3B82F6?style=flat-square" /><br/><br/>
-<b>Fullstack Developer</b> — strong on frontend (React, TypeScript), working knowledge of backend (Node.js, REST APIs)
+<b>Frontend / Fullstack Developer</b> — strong on frontend (React, TypeScript), with working knowledge of backend (Node.js, REST APIs)
 </td>
+
 <td valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="44" alt="🎯" /><br/>
 <img src="https://img.shields.io/badge/CAREER_GOAL-A855F7?style=flat-square" /><br/><br/>
-Frontend-focused | Fullstack Developer transitioning toward <b>System Operations</b> — using dev experience to automate and optimize infrastructure
+Build a long-term career in <b>Frontend / Fullstack Development</b>, while developing a strong mindset for <b>infrastructure optimization, automation, and system efficiency</b>.
 </td>
+
 <td valign="top" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="44" /><br/>
 <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-10B981?style=flat-square" /><br/><br/>
@@ -72,6 +85,7 @@ Frontend-focused | Fullstack Developer transitioning toward <b>System Operations
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== EXPERIENCE ============================== -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A855F7&vCenter=true&width=520&height=48&repeat=false&lines=%24+cat+experience.log" alt="experience" />
 
 <table>
@@ -79,9 +93,11 @@ Frontend-focused | Fullstack Developer transitioning toward <b>System Operations
 <td width="80" align="center" valign="top">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="52" />
 </td>
+
 <td valign="top">
 
 ### Fullstack Developer | System Operator
+
 <img src="https://img.shields.io/badge/The_Scaling_Engine-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Remote-22D3EE?style=flat-square" /> <img src="https://img.shields.io/badge/04%2F2026_→_Present-EC4899?style=flat-square&labelColor=0D1117" />
 
 ▸ Developed and maintained internal tools and customer-facing applications<br/>
@@ -89,14 +105,17 @@ Frontend-focused | Fullstack Developer transitioning toward <b>System Operations
 
 </td>
 </tr>
+
 <tr>
 <td width="80" align="center" valign="top">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="52" />
 </td>
+
 <td valign="top">
 
 ### Software Engineering Intern
-<img src="https://img.shields.io/badge/FPT_Software-F37021?style=flat-square" /> <img src="https://img.shields.io/badge/Fulltime-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/05%2F2024_→_08%2F2024-3B82F6?style=flat-square" />
+
+<img src="https://img.shields.io/badge/FPT_Software-F37021?style=flat-square" /> <img src="https://img.shields.io/badge/Fulltime-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/05%2F2024_→_08%2F2024-3B82F6?style=flat-square&labelColor=0D1117" />
 
 ▸ Labeled and prepared datasets for AI model training using LabelMe<br/>
 ▸ Worked within a professional dev environment and team project workflows<br/>
@@ -109,6 +128,7 @@ Frontend-focused | Fullstack Developer transitioning toward <b>System Operations
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== PROJECTS ============================== -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=EC4899&vCenter=true&width=520&height=48&repeat=false&lines=%24+ls+.%2Fprojects" alt="projects" />
 
 <h2>
@@ -163,23 +183,29 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/01-Transcript_→_Tasks_Pipeline-22D3EE?style=flat-square&labelColor=0D1117" /><br/>
-Managers paste a raw transcript and AI extracts structured tasks with assignees and deadlines, rendered in an editable preview so a human approves before anything is written — then bulk-creates the approved set. Turns post-meeting data entry into a review step instead of a typing session.
+Managers paste a raw transcript and AI extracts structured tasks with assignees and deadlines, rendered in an editable preview so a human approves before anything is written — then bulk-creates the approved set. Turns post-meeting data entry into a review step instead of a typing session.<br/><br/>
+<b>▸ Reduced ~70% of manual task creation time after meetings</b><br/>
+<b>▸ Processes 30-minute meeting transcripts in &lt;20 seconds</b>
 </td>
+
 <td width="50%" valign="top">
 <img src="https://img.shields.io/badge/02-AI_Task_Decomposition-A855F7?style=flat-square&labelColor=0D1117" /><br/>
 Complex tasks are automatically broken into sub-tasks at creation time, so work starts from actionable steps rather than a vague one-liner.
 </td>
 </tr>
+
 <tr>
 <td valign="top">
 <img src="https://img.shields.io/badge/03-Multi--project_Team_Management-EC4899?style=flat-square&labelColor=0D1117" /><br/>
 Managers add members to projects, track individual progress, and read productivity analytics — replacing "who's working on what?" check-ins with a live view.
 </td>
+
 <td valign="top">
 <img src="https://img.shields.io/badge/04-Automated_Notifications_via_n8n-10B981?style=flat-square&labelColor=0D1117" /><br/>
 Workflow automation pushes task events to Slack, so updates reach the team where they already work instead of requiring them to check the board.
 </td>
 </tr>
+
 <tr>
 <td colspan="2" align="center">
 <img src="https://img.shields.io/badge/05-End--to--end-3B82F6?style=flat-square&labelColor=0D1117" />&nbsp;
@@ -197,8 +223,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="30" /> NewsFlow</h3>
 <img src="https://img.shields.io/badge/Real--time_News_Platform-22D3EE?style=flat-square&labelColor=0D1117" />
 
-<a href="https://news-flow-tau.vercel.app"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/bttu2002/NewsFlow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://news-flow-tau.vercel.app"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://github.com/bttu2002/NewsFlow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ▸ Built an intermediate backend to prevent CORS errors during deployment<br/>
 ▸ Responsive UI for desktop and mobile with search + dark/light mode
@@ -207,13 +232,13 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> TradersYa</h3>
 <img src="https://img.shields.io/badge/Real--time_Cryptocurrency_Tracker-A855F7?style=flat-square&labelColor=0D1117" />
 
-<a href="https://traders-ya.vercel.app"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/bttu2002/TradersYa"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://traders-ya.vercel.app"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://github.com/bttu2002/TradersYa"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ▸ Built an intermediate backend to prevent CORS errors during deployment<br/>
 ▸ Live trending coin data with search and dark/light mode
@@ -223,27 +248,29 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bento%20Box.png" width="30" /> CEO-Dashboard</h3>
 <img src="https://img.shields.io/badge/Restaurant_Management_System-10B981?style=flat-square&labelColor=0D1117" />
 
-<a href="https://demo.wayer.co"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://demo.wayer.co"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 ▸ Developed a RESTful API and a fully responsive UI for all devices<br/>
-▸ Handled frontend–backend integration end-to-end
+▸ Handled frontend–backend integration end-to-end<br/>
+▸ <i>Client/company project — source code is kept private under a non-public repository.</i>
 
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,supabase&theme=dark" height="32" />
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" /> Capstone Project</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Graduation%20Cap.png" width="30" /> Capstone Project</h3>
 <img src="https://img.shields.io/badge/Broadcom_Expat_Employee_Social_Recommendation_System-3B82F6?style=flat-square&labelColor=0D1117" />
 
-<a href="https://beesrs.io.vn"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/bttu2002/CapstoneProject_FA25_FE"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://beesrs.io.vn"><img src="https://img.shields.io/badge/▶_Live-EC4899?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/bttu2002/CapstoneProject_FA25_FE"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ▸ Built an interactive UI for location discovery and social interaction<br/>
 ▸ Integrated map features via TrackMaps API; built chat & event management components
@@ -259,7 +286,8 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== TECH STACK ============================== -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=3B82F6&vCenter=true&width=520&height=48&repeat=false&lines=%24+cat+tech_stack.json" alt="tech stack" />
+
+<img src="https://readme-typing-svg.demolab.com/svg?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=3B82F6&vCenter=true&width=520&height=48&repeat=false&lines=%24+cat+tech_stack.json" alt="tech stack" />
 
 <table>
 <tr>
@@ -274,6 +302,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" /><br/>
@@ -287,6 +316,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="34" /><br/>
@@ -297,6 +327,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="34" /><br/>
@@ -308,6 +339,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" /><br/>
@@ -318,7 +350,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-7C3AED?style=for-the-badge&logo=railway&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Paradigm-23589B?style=for-the-badge" />
 </td>
 </tr>
@@ -327,6 +359,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== STATS ============================== -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=10B981&vCenter=true&width=520&height=48&repeat=false&lines=%24+git+log+--stats" alt="stats" />
 
 <p align="center">
@@ -349,6 +382,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Trophies
 </h3>
+
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=bttu2002&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
@@ -356,11 +390,13 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Commit Snake
 </h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bttu2002/bttu2002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- ============================== FOOTER ============================== -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,25:EC4899,60:7C3AED,100:0D1117&height=150&section=footer&animation=twinkling" />
 
 <div align="center">

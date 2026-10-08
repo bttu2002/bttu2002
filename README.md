@@ -192,7 +192,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/01-Transcript_→_Tasks_Pipeline-22D3EE?style=flat-square&labelColor=0D1117" /><br/>
 
 Managers paste a raw transcript and AI extracts structured tasks with assignees and deadlines, rendered in an editable preview so a human approves before anything is written — then bulk-creates the approved set. Turns post-meeting data entry into a review step instead of a typing session.<br/><br/>
-<b>▸Measuring it myself using five sample transcripts</b><br/>
+<str>▸Measuring it myself using five sample transcripts:</str><br/>
 <b>▸ Reduced ~70% of manual task creation time after meetings</b><br/> <b>▸ Processes 30-minute meeting transcripts in <20 seconds</b>
 
 </td>

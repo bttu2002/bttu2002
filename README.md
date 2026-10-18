@@ -48,7 +48,7 @@
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== ABOUT ============================== -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=22D3EE&vCenter=true&width=520&height=48&repeat=false&lines=%24+whoami" alt="whoami" />

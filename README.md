@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Resume-Available_for_HR_&_Recruiters-0D1117?style=flat-square&labelColor=EC4899" />
+
 
 <br/><br/>
 

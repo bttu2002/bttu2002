@@ -1,5 +1,4 @@
 <!-- ============================== HERO ============================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:7C3AED,75:EC4899,100:22D3EE&height=240&section=header&text=BUI%20THANH%20TU&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Frontend-focused%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=19&descColor=E0F2FE&stroke=22D3EE&strokeWidth=1" />
@@ -41,7 +40,7 @@
 
 <br/><br/>
 
-
+<img src="https://img.shields.io/badge/Resume-Available_for_HR_&_Recruiters-0D1117?style=flat-square&labelColor=EC4899" />
 
 <br/><br/>
 
@@ -52,7 +51,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== ABOUT ============================== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=22D3EE&vCenter=true&width=520&height=48&repeat=false&lines=%24+whoami" alt="whoami" />
 
 <table>
@@ -101,7 +99,6 @@ Build a long-term career in <b>Frontend / Fullstack Development</b>, while devel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== EXPERIENCE ============================== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A855F7&vCenter=true&width=520&height=48&repeat=false&lines=%24+cat+experience.log" alt="experience" />
 
 <table>
@@ -113,8 +110,7 @@ Build a long-term career in <b>Frontend / Fullstack Development</b>, while devel
 <td valign="top">
 
 ### Fullstack Developer | System Operator
-
-<img src="https://img.shields.io/badge/The_Scaling_Engine-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Remote-22D3EE?style=flat-square" /> <img src="https://img.shields.io/badge/03%2F2026_→_Present-EC4899?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/The_Scaling_Engine-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Remote-22D3EE?style=flat-square" /> <img src="https://img.shields.io/badge/04%2F2026_→_Present-EC4899?style=flat-square&labelColor=0D1117" />
 
 ▸ Developed and maintained internal tools and customer-facing applications<br/>
 ▸ Managed and optimized SaaS platforms, ensuring stability of automated workflows
@@ -130,7 +126,6 @@ Build a long-term career in <b>Frontend / Fullstack Development</b>, while devel
 <td valign="top">
 
 ### Software Engineering Intern
-
 <img src="https://img.shields.io/badge/FPT_Software-F37021?style=flat-square" /> <img src="https://img.shields.io/badge/Fulltime-10B981?style=flat-square" /> <img src="https://img.shields.io/badge/05%2F2024_→_08%2F2024-3B82F6?style=flat-square&labelColor=0D1117" />
 
 ▸ Labeled and prepared datasets for AI model training using LabelMe<br/>
@@ -144,7 +139,6 @@ Build a long-term career in <b>Frontend / Fullstack Development</b>, while devel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== PROJECTS ============================== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=EC4899&vCenter=true&width=520&height=48&repeat=false&lines=%24+ls+.%2Fprojects" alt="projects" />
 
 <h2>
@@ -192,8 +186,9 @@ flowchart LR
 <img src="https://img.shields.io/badge/01-Transcript_→_Tasks_Pipeline-22D3EE?style=flat-square&labelColor=0D1117" /><br/>
 
 Managers paste a raw transcript and AI extracts structured tasks with assignees and deadlines, rendered in an editable preview so a human approves before anything is written — then bulk-creates the approved set. Turns post-meeting data entry into a review step instead of a typing session.<br/><br/>
-<str>▸Measuring it myself using five sample transcripts:</str><br/>
-<b>▸ Reduced ~70% of manual task creation time after meetings</b><br/> <b>▸ Processes 30-minute meeting transcripts in <20 seconds</b>
+
+<b>▸ Reduced ~70% of manual task creation time after meetings</b><br/>
+<b>▸ Processes 30-minute meeting transcripts in &lt;20 seconds</b>
 
 </td>
 
@@ -227,7 +222,7 @@ Workflow automation pushes task events to Slack, so updates reach the team where
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://img.shields.io/badge/05-End--to--end-3B82F6?style=flat-square&labelColor=0D1117" /> 
+<img src="https://img.shields.io/badge/05-End--to--end-3B82F6?style=flat-square&labelColor=0D1117" />&nbsp;
 
 Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode</b> end-to-end.
 
@@ -342,7 +337,6 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== TECH STACK ============================== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=3B82F6&vCenter=true&width=520&height=48&repeat=false&lines=%24+cat+tech_stack.json" alt="tech stack" />
 
 <table>
@@ -451,7 +445,6 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ============================== STATS ============================== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=10B981&vCenter=true&width=520&height=48&repeat=false&lines=%24+git+log+--stats" alt="stats" />
 
 <p align="center">

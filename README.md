@@ -49,6 +49,47 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ============================== DEVELOPER INTRO ============================== -->
+
+<div align="center">
+
+<h2>Building ideas into useful products.</h2>
+
+<p>
+  Frontend-focused Fullstack Developer who enjoys crafting<br/>
+  clean interfaces, building practical applications, and automating workflows.
+</p>
+
+<img src="https://img.shields.io/badge/FOCUS-Frontend_&_Fullstack-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILDING-MicroDo-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/EXPLORING-AI_&_Automation-EC4899?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Current Focus
+
+- Building responsive interfaces with React and TypeScript
+- Developing fullstack applications with Node.js
+- Improving usability, maintainability, and performance
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Beyond Coding
+
+- AI-assisted productivity
+- Workflow automation with n8n
+- System efficiency and practical problem-solving
+
+</td>
+</tr>
+</table>
+
+---
 
 <!-- ============================== ABOUT ============================== -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=22D3EE&vCenter=true&width=520&height=48&repeat=false&lines=%24+whoami" alt="whoami" />
@@ -97,49 +138,6 @@ Build a long-term career in <b>Frontend / Fullstack Development</b>, while devel
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-
-<!-- ============================== DEVELOPER INTRO ============================== -->
-
-<div align="center">
-
-<h2>Building ideas into useful products.</h2>
-
-<p>
-  Frontend-focused Fullstack Developer who enjoys crafting<br/>
-  clean interfaces, building practical applications, and automating workflows.
-</p>
-
-<img src="https://img.shields.io/badge/FOCUS-Frontend_&_Fullstack-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILDING-MicroDo-22D3EE?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/EXPLORING-AI_&_Automation-EC4899?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Current Focus
-
-- Building responsive interfaces with React and TypeScript
-- Developing fullstack applications with Node.js
-- Improving usability, maintainability, and performance
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Beyond Coding
-
-- AI-assisted productivity
-- Workflow automation with n8n
-- System efficiency and practical problem-solving
-
-</td>
-</tr>
-</table>
-
----
 
 
 <!-- ============================== EXPERIENCE ============================== -->

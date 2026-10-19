@@ -486,6 +486,39 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+
+<div align="center">
+
+### `~/developer-profile`
+
+</div>
+
+```yaml
+name: Bui Thanh Tu
+role: Frontend-focused Fullstack Developer
+
+primary_stack:
+  - React
+  - TypeScript
+  - JavaScript
+  - CSS
+  - Node.js
+
+interests:
+  - UI/UX
+  - AI-powered applications
+  - Workflow automation
+
+currently_building: MicroDo
+mindset: Build. Improve. Automate.
+```
+
+<div align="center">
+
+**Less repetitive work. Better user experiences. Useful products.**
+
+</div>
+
 <!-- ============================== STATS ============================== -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=10B981&vCenter=true&width=520&height=48&repeat=false&lines=%24+git+log+--stats" alt="stats" />
 

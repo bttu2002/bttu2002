@@ -451,25 +451,6 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 
 </div>
 
-```yaml
-name: Bui Thanh Tu
-role: Frontend-focused Fullstack Developer
-
-primary_stack:
-  - React
-  - TypeScript
-  - JavaScript
-  - CSS
-  - Node.js
-
-interests:
-  - UI/UX
-  - AI-powered applications
-  - Workflow automation
-
-currently_building: MicroDo
-mindset: Build. Improve. Automate.
-```
 
 <div align="center">
 

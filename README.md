@@ -312,7 +312,7 @@ Built the <b>RESTful API</b> and a <b>responsive UI</b> with <b>Dark/Light mode<
 <h3>🎓 Capstone Project</h3>
 <img src="https://img.shields.io/badge/Broadcom_Expat_Employee_Social_Recommendation_System-3B82F6?style=flat-square&labelColor=0D1117" />
 
-<a href="https://beesrs.io.vn">
+<a href="https://capstone-project-fa-25-fe.vercel.app">
 <img src="https://img.shields.io/badge/▶_Live-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
